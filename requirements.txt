@@ -1,0 +1,8 @@
+streamlit-lottie
+transformers
+streamlit
+matplotlib
+scikit-learn
+SpeechRecognition
+torch
+PyAudio

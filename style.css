@@ -1,0 +1,14 @@
+div.st-az {
+    background-color: #224684;
+    
+}
+.stlottie[data-key=‘lottie_coding’] {
+margin-top: 100px;
+margin-right: 50000px;
+position:absolute; 
+left:5000px; 
+top:50px;
+}
+lottie-player {
+    margin: 0 auto;
+}
